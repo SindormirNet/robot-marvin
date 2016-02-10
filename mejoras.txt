@@ -1,0 +1,15 @@
+Más y Menos en la Bateria
+Pieza del centro un poco más abajo
+Mirar los condensadores grandes - Check
+Mover los servos para poder desatornillar
+Centrar los condensadores C7 y C5
+Mover el Logo para que se vea más.
+Apuntar la dirección de los CNY70
+La pieza de los bumpers centrarla un poco más.
+Hacer mayor los agujeros del sensor de ultrasonidos.
+Soldar alambres a en los bumpers.
+Interruptor de alimentación
+Bumpers mal puestos, tiene que ser a cero voltios.  - Check
+
+Hay que reajustar los CNY70.
+Recordar meter primero los LDR en la pieza plastica y luego soldarlos.
